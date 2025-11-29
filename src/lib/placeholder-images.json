@@ -1,3 +1,40 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "hiring-trend-chart",
+      "description": "A line chart showing hiring trends over time.",
+      "imageUrl": "https://images.unsplash.com/photo-1758691736483-5f600b509962?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxsaW5lJTIwY2hhcnR8ZW58MHx8fHwxNzY0NDE2MDUyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "line chart"
+    },
+    {
+      "id": "skill-gap-chart",
+      "description": "A bar chart showing the gap between required and available skills.",
+      "imageUrl": "https://images.unsplash.com/photo-1504868584819-f8e8b4b6d7e3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxiYXIlMjBjaGFydHxlbnwwfHx8fDE3NjQzNjc0NTN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "bar chart"
+    },
+    {
+      "id": "skill-demand-heatmap",
+      "description": "A heatmap visualization of skill demand across different regions or industries.",
+      "imageUrl": "https://images.unsplash.com/photo-1673158195534-3737053d143a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxoZWF0bWFwJTIwZGF0YXxlbnwwfHx8fDE3NjQ0MTYwNTN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "heatmap data"
+    },
+    {
+      "id": "trending-tech-chart",
+      "description": "A chart showing trending technologies in the job market.",
+      "imageUrl": "https://images.unsplash.com/photo-1762279389020-eeeb69c25813?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHx0ZWNobm9sb2d5JTIwZ3JhcGh8ZW58MHx8fHwxNzY0NDE2MDUyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "technology graph"
+    },
+    {
+      "id": "salary-distribution-chart",
+      "description": "A chart showing salary distribution for a specific job role.",
+      "imageUrl": "https://images.unsplash.com/photo-1711606706060-52ea35a489dd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxzYWxhcnklMjBzdGF0aXN0aWNzfGVufDB8fHx8MTc2NDQxNjA1M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "salary statistics"
+    },
+    {
+      "id": "user-avatar",
+      "description": "Placeholder for user avatar.",
+      "imageUrl": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxwZXJzb24lMjBwb3J0cmFpdHxlbnwwfHx8fDE3NjQzNjgzMjZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "person portrait"
+    }
+  ]
 }
