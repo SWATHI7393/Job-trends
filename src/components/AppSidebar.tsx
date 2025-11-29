@@ -14,6 +14,7 @@ import {
   Lightbulb,
   LogIn,
   LogOut,
+  MessageCircle,
   Settings,
   TrendingUp,
   User,
@@ -29,6 +30,7 @@ const mainNavItems = [
   { href: '/predict-trend', label: 'Job Trend Prediction', icon: TrendingUp },
   { href: '/skill-gap', label: 'Skill Gap Analyzer', icon: Lightbulb },
   { href: '/resume-analyzer', label: 'Resume Analyzer', icon: FileText },
+  { href: '/chatbot', label: 'AI Chatbot', icon: MessageCircle },
   { href: '/market-insights', label: 'Market Insights', icon: BarChart2 },
 ];
 
